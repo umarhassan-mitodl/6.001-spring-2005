@@ -21,6 +21,6 @@ This is the revised version of the manual for using Edwin and the MIT Scheme env
 
 This is the reference manual for MIT Scheme, listing all the commands. You should need to look at this rarely, if at all, for 6.001, since any Scheme features required for the course will be introduced in classes and problem sets.
 
-{{% resource_link "1bcea066-4d1b-461b-b022-aa897dd75aaf" "Revised (5) Report on the Algorithmic Language Scheme" %}}
+[Revised (5) Report on the Algorithmic Language Scheme](http://www.swiss.ai.mit.edu/~jaffer/r5rs_toc.html)
 
 This is the formal definition of the "standard" Scheme language. It will be interesting for you to look at how a language is described formally, but you should not need to consult this for 6.001. This is also included with the MIT 6.001 Scheme implementations.

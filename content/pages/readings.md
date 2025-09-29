@@ -11,13 +11,13 @@ uid: 3c92e5a8-3664-f839-2bbc-765d945469b2
 ---
 This section provides the assigned readings for the course. All readings are from the course textbook:
 
-{{% resource_link "465f66a8-4c0d-4e5f-9a2d-37c17632610d" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Abelson, Harold, Gerald Jay Sussman, and Julie Sussman. *Structure and Interpretation of Computer Programs*. 2nd ed. Cambridge, MA: MIT Press, 1996. ISBN: 9780262011532.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262011532) Abelson, Harold, Gerald Jay Sussman, and Julie Sussman. *Structure and Interpretation of Computer Programs*. 2nd ed. Cambridge, MA: MIT Press, 1996. ISBN: 9780262011532.
 
 The book is available online through the MIT Press Web site, and is also available in downloadable form.
 
-MIT Press: {{% resource_link "465f66a8-4c0d-4e5f-9a2d-37c17632610d" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Structure and Interpretation of Computer Programs (SICP) main site
+MIT Press: [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262011532) Structure and Interpretation of Computer Programs (SICP) main site
 
-{{% resource_link "45a1243c-0587-4a64-a4ad-6b0abc942fea" "Full text of SICP (PDF)" %}}
+[Full text of SICP (PDF)](https://web.mit.edu/6.001/6.037/sicp.pdf)
 
 Downloadable file ({{% resource_link "c975ee8b-62d0-1f5e-db5e-d01cd99e08d1" "ZIP - 1.2 MB" %}}), courtesy of MIT Press and used with permission. (The ZIP file contains: 212 .gif files, 39 .html files, 2 .jpg files, 1 .css file.)
 

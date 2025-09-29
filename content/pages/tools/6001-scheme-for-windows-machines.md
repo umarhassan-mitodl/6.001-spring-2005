@@ -32,4 +32,4 @@ MIT Scheme requires two directories:
 
 ## Installing Problem Sets
 
-Problem sets will be distributed as ZIP files. In order to install them, you will need to be able to "unzip" them on your machine. You can use the shareware program {{% resource_link "85ce2cba-109c-4034-bfb8-99cbcaefab83" "WinZip®" %}}, which provides a graphical user interface as well as integration into both Netscape® and Microsoft® browsers.
+Problem sets will be distributed as ZIP files. In order to install them, you will need to be able to "unzip" them on your machine. You can use the shareware program [WinZip®](http://www.winzip.com/), which provides a graphical user interface as well as integration into both Netscape® and Microsoft® browsers.
